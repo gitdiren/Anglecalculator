@@ -1,0 +1,269 @@
+Series Name,Series Code,Country Name,Country Code,1990 [YR1990],2000 [YR2000],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015]
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Arab World,ARB,5.20619229940432,3.81622575249209,3.49335098476591,3.47680495236086,3.4701264894601,3.46973649137956,3.47166577488365,3.47000274047765,3.46134725492065,3.4428286571089,3.41329945493743,3.3738396858853
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Caribbean small states,CSS,2.86552238374029,2.4369899227298,2.24352743005131,2.22076892978088,2.19809787381095,2.17501934074737,2.15196029864151,2.12961747379656,2.10782668455336,2.08722106119627,2.06847654861545,2.05081802082267
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Central Europe and the Baltics,CEB,1.93106007004559,1.31771269641888,1.34193833628945,1.38119251837344,1.4663722710865,1.49055430279579,1.46532450184817,1.39614722327403,1.41572508466985,1.38789034236852,1.43531089786844,1.4540667793522
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Early-demographic dividend,EAR,4.22047830206801,3.32500310374616,2.96140798479923,2.91025495946309,2.8607352128549,2.81101753505264,2.76314043873578,2.71758049956312,2.67580817368871,2.63851422830948,2.60317195913314,2.56938618641774
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,East Asia & Pacific,EAS,2.49781802187968,1.78884569679007,1.79239439542707,1.79689409330434,1.79641994065133,1.79570060569276,1.79706513379161,1.79965908979429,1.80500169704656,1.80042915724106,1.80252087048497,1.80577847313536
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,East Asia & Pacific (excluding high income),EAP,2.61709078312961,1.82750844314991,1.84471001115501,1.84413375523792,1.84329719313386,1.84378231555425,1.84386873511187,1.84383537726736,1.84444745148346,1.84494387573202,1.84594826551472,1.84718166346125
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,East Asia & Pacific (IDA & IBRD),TEA,2.62160239222351,1.82553293165939,1.84276727749032,1.84221804301685,1.8414426554608,1.84202526947502,1.84220999132328,1.84230540063341,1.84305125965116,1.84369246013773,1.84485125498087,1.846246276794
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Euro area,EMU,1.53415775973448,1.47030490035382,1.52264944539053,1.53983693639275,1.58033271915854,1.56373251114987,1.57978805029377,1.56149808312354,1.55384621925896,1.53024597520931,1.55419794480299,1.55105802510198
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Europe & Central Asia,ECS,1.95799754402768,1.55591635363687,1.61888366626525,1.66371990926566,1.72189352257896,1.72069326617512,1.7277583326566,1.71278517828253,1.73833035642388,1.72767891597687,1.75378025026693,1.75455043703266
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Europe & Central Asia (excluding high income),ECA,2.34230001782635,1.64087472006308,1.70241476273797,1.77056440816347,1.84236514269961,1.85306383532382,1.8502993363753,1.84688197121407,1.90079264883774,1.91388484829506,1.94668148703661,1.95133186293537
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Europe & Central Asia (IDA & IBRD),TEC,2.30818585062771,1.6147567499805,1.66397483070331,1.72952250613053,1.8022701559553,1.81335932430009,1.81174845404545,1.80176550481311,1.85116588151948,1.85945865432571,1.8918235826282,1.89574711568293
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,European Union,EUU,1.65812200002045,1.46420296944118,1.53353643291382,1.55821896398424,1.60918507392215,1.60063369017562,1.61157821902722,1.58116256722922,1.58252387702195,1.54870674104172,1.57098130442852,1.57056377137221
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Fragile and conflict affected situations,FCS,5.8806500451105,5.28928626689546,4.99659877909017,4.94503791898176,4.8936135651643,4.84244127573381,4.79117351968938,4.73929111172349,4.68634922941388,4.63137542545851,4.57405853722269,4.51468067531751
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Heavily indebted poor countries (HIPC),HPC,6.59801539684114,6.06449438285067,5.65169203276889,5.57651208605518,5.49977807231028,5.42148223498458,5.34211598445872,5.2611046068498,5.17946536304209,5.09768083953052,5.01645056397383,4.9358260439736
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,High income,HIC,1.88530949633555,1.73793667772296,1.7386102142191,1.76230376372693,1.7686461226513,1.74113826644174,1.7293674327628,1.71276981191643,1.71814973379465,1.68614555273414,1.69682862831252,1.69445957711088
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IBRD only,IBD,3.09196353105674,2.32718877280948,2.20637890257624,2.19224373082534,2.17998551898252,2.16422412009172,2.14880432115385,2.13324814868807,2.12454179329354,2.1119897930268,2.10309967707121,2.09345464424977
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA & IBRD total,IBT,3.59069675087505,2.85554249388396,2.71251087094547,2.69613821559028,2.68139710101162,2.66322141876106,2.64538176835617,2.6272657465609,2.61516410718663,2.60121852861841,2.59009207284112,2.57787090645479
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA blend,IDB,5.91819664414135,4.96104788241224,4.62634707949101,4.60560320564203,4.57934671384038,4.53658885184266,4.48262475992793,4.43058289643908,4.38044014128673,4.3415513664166,4.29598913872115,4.24341218987655
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA only,IDX,5.86557968998124,5.0846998623296,4.64483110682297,4.57255060819055,4.50311515556562,4.43588905429444,4.37220032623149,4.30904639323703,4.24909973677931,4.19013558541934,4.13425257428659,4.07899935522136
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA total,IDA,5.88303436585173,5.04381885333853,4.63870128106213,4.58350449679423,4.5283541103123,4.46919981586171,4.40872611920554,4.34922499537361,4.2924908576279,4.24013625093106,4.18762715812954,4.13320231618675
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Late-demographic dividend,LTE,2.45207625039614,1.65711962591954,1.66117569034367,1.66971558812816,1.67920524922818,1.68243719531019,1.68559482923284,1.68527413255198,1.69424522394177,1.69479834472664,1.70088336382751,1.70254592175108
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latin America & Caribbean,LCN,3.2497553965431,2.61564540709887,2.31388317738518,2.27602343985284,2.2436963928391,2.21502610414913,2.19058601176014,2.16827815461799,2.14724879732772,2.12664767267769,2.10639323874911,2.08568769064142
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latin America & Caribbean (excluding high income),LAC,3.31707876973219,2.64639986386889,2.32201389799468,2.28155996424851,2.24683896268961,2.2162000726387,2.1904438120509,2.16710361390974,2.14525084431019,2.12403266570401,2.10299103769199,2.08172529446222
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latin America & Caribbean (IDA & IBRD),TLA,3.30102905198597,2.64315446334336,2.33380614989334,2.29470825579115,2.26082577558951,2.23070330086098,2.20503244052646,2.18158439335663,2.15961220949689,2.1383244547167,2.11731018440729,2.09623151041241
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Least developed countries: UN classification,LDC,5.94922098127398,5.20492720754365,4.76936246369683,4.69617420527612,4.62439853300284,4.55410238021841,4.48603362755577,4.41835816462462,4.3532183895666,4.29074482291737,4.23057008208995,4.17228564568846
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Low & middle income,LMY,3.605081775642,2.86781251811527,2.72353609207143,2.70668578955482,2.69120794510808,2.67276580723802,2.65469586057533,2.63692571378533,2.62470574399233,2.6109100271238,2.59951206713897,2.58721135550363
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Low income,LIC,6.3436413981542,5.79892034288831,5.38630784383183,5.31124763502553,5.23529730561886,5.15856859990171,5.08176460798417,5.00588313350989,4.93043195850167,4.855163129201,4.78067383881544,4.70684439608216
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lower middle income,LMC,4.24728396711984,3.44143968948753,3.14115254372005,3.09669810683519,3.0543279563759,3.0092464526412,2.9646880096999,2.92304411392925,2.88611071490293,2.85264785148448,2.82205131931563,2.79333687791762
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle East & North Africa,MEA,4.92133663145268,3.20106364189631,2.86773685298508,2.85874575498758,2.86090767965663,2.86811008140707,2.87787844846376,2.88121075974661,2.8794201180243,2.86676563917706,2.84502535925731,2.8133378836375
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle East & North Africa (excluding high income),MNA,4.92307621196022,3.16212363304728,2.85159858981936,2.84970629298614,2.85990349497555,2.87747882857675,2.89679804344702,2.91075650456825,2.91626388803552,2.91063211551096,2.89214524209251,2.86215151360216
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle East & North Africa (IDA & IBRD),TMN,4.90795736801002,3.14208107577169,2.83428552655067,2.83280433956049,2.84344549940116,2.86152465932164,2.8813904544327,2.89586398231026,2.90180422631927,2.89650883683527,2.87825429079252,2.84839308688903
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle income,MIC,3.37829326956536,2.6045646356477,2.46386863858857,2.44824488534007,2.4340503770512,2.4165505720199,2.39935832114407,2.38278546623563,2.37221164031412,2.35980914549286,2.34996577071235,2.33906131133627
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,North America,NAC,2.05512522964771,1.99899892606766,2.05544665911156,2.07350267600433,2.0324868219004,1.96818908167515,1.90016596182966,1.86569560337016,1.8535417442705,1.83012321142273,1.83412182619396,1.81895514424756
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,OECD members,OED,1.97640625962252,1.80697206170812,1.80057362648883,1.82051398388488,1.82501684616848,1.79802558869291,1.78903947036135,1.76841070357988,1.76744299885025,1.74230089941021,1.74767015210604,1.74397698611416
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Other small states,OSS,4.43370432150261,3.73752007141276,3.43102847999483,3.39806983457819,3.36315484601755,3.32802473916472,3.29844179379279,3.26601204358874,3.23762468115703,3.20191977196579,3.17310556406922,3.13768968886047
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Pacific island small states,PSS,4.36037524577209,3.85016101248422,3.59054740476464,3.5510489323937,3.51031018317236,3.46969993489136,3.4285595165597,3.38965966808389,3.35196118780885,3.31510122204181,3.27876627550491,3.24327547519722
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Post-demographic dividend,PST,1.74954049859433,1.61474033060369,1.65816950894657,1.68695230476952,1.69919296239905,1.67184644491859,1.66144874158502,1.6447763740801,1.65220688306906,1.62434111425471,1.63429580683537,1.63377076292078
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Pre-demographic dividend,PRE,6.5798771579887,6.10813356450573,5.83862559188307,5.78677793092711,5.73147568983616,5.67215577660834,5.60867929076779,5.54106056211281,5.47002841433184,5.39744350838415,5.32343036777852,5.24901991741292
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Small states,SST,4.03502514400598,3.44176934709275,3.17954655772269,3.1515967841007,3.12224039883221,3.09257486562565,3.06684260865267,3.03903951199605,3.01442478956251,2.98465844542123,2.96032623895203,2.93129446136803
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Asia,SAS,4.28867657942131,3.46213938978281,3.02744763569952,2.95586861238374,2.88410393222613,2.81273605841049,2.74421345270099,2.67971161519488,2.62185985372907,2.57139843631048,2.52794742844552,2.4914913856624
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Asia (IDA & IBRD),TSA,4.28867657942131,3.46213938978281,3.02744763569952,2.95586861238374,2.88410393222613,2.81273605841049,2.74421345270099,2.67971161519488,2.62185985372907,2.57139843631048,2.52794742844552,2.4914913856624
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sub-Saharan Africa,SSF,6.32917823060793,5.76978410691049,5.47060818769124,5.41787689672146,5.36372933122246,5.30735375325083,5.2487092991355,5.18675468497051,5.12210017406641,5.05557267162263,4.98775338608287,4.91887990820157
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sub-Saharan Africa (excluding high income),SSA,6.32917823060793,5.7703174889482,5.47104850229777,5.41827687276152,5.36410266296223,5.30770020743746,5.24906923064811,5.18706430363507,5.12239189726927,5.05585859392742,4.98802970490347,4.91913708758238
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sub-Saharan Africa (IDA & IBRD),TSS,6.32917823060793,5.76978410691049,5.47060818769124,5.41787689672146,5.36372933122245,5.30735375325083,5.2487092991355,5.18675468497051,5.12210017406641,5.05557267162263,4.98775338608287,4.91887990820157
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Upper middle income,UMC,2.64026274644963,1.83340768675471,1.80497047328104,1.81016849478504,1.81624635174244,1.81843981966626,1.82046040155131,1.82125538687323,1.82938178505921,1.83012518547201,1.83339199687651,1.83275035675893
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,World,WLD,3.2589527635679,2.66789073972806,2.5612758550161,2.55264032075364,2.54209260609262,2.52362626548365,2.50802407893767,2.49196459419747,2.4837457497156,2.46832383781337,2.4614705813944,2.45182948637234
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Afghanistan,AFG,7.466,7.494,6.651,6.46,6.254,6.038,5.816,5.595,5.38,5.174,4.981,4.802
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Albania,ALB,2.978,2.157,1.703,1.668,1.65,1.646,1.653,1.668,1.685,1.7,1.71,1.714
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Algeria,DZA,4.726,2.514,2.575,2.662,2.749,2.828,2.889,2.925,2.936,2.924,2.89,2.839
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,American Samoa,ASM,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Andorra,AND,..,..,1.24,1.18,1.25,1.19,1.27,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Angola,AGO,7.247,6.639,6.42,6.368,6.307,6.238,6.162,6.082,6,5.92,5.841,5.766
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Antigua and Barbuda,ATG,2.061,2.316,2.203,2.183,2.164,2.146,2.13,2.115,2.102,2.089,2.076,2.063
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Argentina,ARG,2.989,2.561,2.432,2.413,2.396,2.382,2.37,2.358,2.347,2.335,2.322,2.308
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Armenia,ARM,2.544,1.648,1.694,1.702,1.706,1.703,1.693,1.68,1.664,1.648,1.634,1.622
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Aruba,ABW,2.249,1.872,1.766,1.763,1.764,1.769,1.776,1.783,1.791,1.796,1.8,1.801
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Australia,AUS,1.902,1.756,1.908,1.959,1.984,1.971,1.928,1.926,1.917,1.851,1.821,1.809
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Austria,AUT,1.46,1.36,1.41,1.38,1.42,1.39,1.44,1.43,1.44,1.44,1.47,1.49
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Azerbaijan,AZE,2.74,2,1.97,1.97,1.9,1.82,1.92,1.96,2,1.98,1.97,1.94
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Bahamas, The",BHS,2.639,2.071,1.865,1.874,1.879,1.876,1.865,1.847,1.827,1.808,1.792,1.778
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bahrain,BHR,3.732,2.795,2.363,2.297,2.241,2.197,2.164,2.139,2.118,2.098,2.078,2.056
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bangladesh,BGD,4.494,3.17,2.603,2.522,2.449,2.384,2.328,2.279,2.236,2.199,2.165,2.133
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Barbados,BRB,1.74,1.744,1.763,1.768,1.772,1.777,1.781,1.785,1.788,1.791,1.794,1.796
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Belarus,BLR,1.913,1.317,1.335,1.429,1.488,1.509,1.494,1.515,1.62,1.668,1.696,1.724
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Belgium,BEL,1.62,1.67,1.8,1.82,1.85,1.84,1.86,1.81,1.79,1.75,1.74,1.7
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Belize,BLZ,4.508,3.6,2.977,2.893,2.821,2.762,2.715,2.676,2.642,2.61,2.578,2.544
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Benin,BEN,6.744,5.962,5.576,5.522,5.469,5.416,5.362,5.305,5.246,5.183,5.117,5.048
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bermuda,BMU,..,1.74,1.76,1.76,1.77,1.76,1.76,1.59,1.59,1.63,1.63,1.62
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bhutan,BTN,5.639,3.604,2.734,2.64,2.55,2.464,2.382,2.305,2.236,2.177,2.128,2.086
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bolivia,BOL,4.894,4.055,3.51,3.427,3.348,3.272,3.2,3.134,3.072,3.017,2.966,2.921
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bosnia and Herzegovina,BIH,1.772,1.497,1.287,1.291,1.297,1.302,1.306,1.309,1.314,1.322,1.332,1.345
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Botswana,BWA,4.54,3.387,2.946,2.918,2.901,2.891,2.884,2.876,2.863,2.842,2.812,2.774
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Brazil,BRA,2.909,2.3,1.926,1.884,1.851,1.824,1.805,1.79,1.777,1.765,1.753,1.74
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,British Virgin Islands,VGB,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Brunei Darussalam,BRN,3.291,2.218,1.819,1.808,1.809,1.821,1.838,1.857,1.874,1.884,1.888,1.884
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bulgaria,BGR,1.82,1.26,1.44,1.49,1.56,1.66,1.57,1.51,1.5,1.48,1.53,1.53
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Burkina Faso,BFA,7.007,6.592,6.192,6.116,6.036,5.953,5.868,5.781,5.693,5.607,5.521,5.436
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Burundi,BDI,7.505,7.008,6.616,6.534,6.447,6.353,6.256,6.156,6.058,5.962,5.869,5.781
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cabo Verde,CPV,5.307,3.762,3.022,2.925,2.833,2.747,2.666,2.593,2.528,2.47,2.419,2.374
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cambodia,KHM,5.601,3.805,3.155,3.086,3.018,2.947,2.875,2.805,2.739,2.682,2.634,2.594
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cameroon,CMR,6.436,5.58,5.309,5.266,5.219,5.167,5.111,5.049,4.984,4.917,4.848,4.778
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Canada,CAN,1.83,1.49,1.5862,1.6589,1.6808,1.668,1.6269,1.61,1.6142,1.587,1.5818,1.6
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cayman Islands,CYM,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Central African Republic,CAF,5.808,5.5,5.353,5.322,5.289,5.254,5.215,5.172,5.123,5.067,5.006,4.94
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Chad,TCD,7.313,7.354,6.992,6.901,6.803,6.699,6.592,6.482,6.372,6.263,6.155,6.05
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Channel Islands,CHI,1.46,1.402,1.417,1.42,1.424,1.43,1.436,1.444,1.451,1.459,1.465,1.472
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Chile,CHL,2.547,2.107,1.964,1.945,1.925,1.903,1.879,1.856,1.834,1.815,1.798,1.785
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,China,CHN,2.35,1.497,1.572,1.577,1.581,1.586,1.59,1.594,1.599,1.604,1.61,1.617
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Colombia,COL,2.994,2.389,2.157,2.118,2.08,2.044,2.01,1.978,1.948,1.921,1.897,1.874
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Comoros,COM,6.412,5.384,4.984,4.927,4.87,4.813,4.754,4.693,4.628,4.561,4.491,4.42
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Congo, Dem. Rep.",COD,6.746,6.751,6.671,6.649,6.621,6.587,6.544,6.493,6.432,6.363,6.286,6.202
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Congo, Rep.",COG,5.349,5.096,5.028,5.012,4.995,4.973,4.948,4.915,4.876,4.83,4.778,4.721
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Costa Rica,CRI,3.172,2.373,2.034,2.006,1.979,1.951,1.922,1.893,1.866,1.841,1.819,1.8
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cote d'Ivoire,CIV,6.622,5.859,5.476,5.423,5.372,5.321,5.269,5.216,5.16,5.101,5.039,4.976
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Croatia,HRV,1.63,1.39,1.47,1.48,1.55,1.58,1.55,1.48,1.51,1.46,1.46,1.4
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cuba,CUB,1.75,1.617,1.572,1.581,1.596,1.616,1.639,1.663,1.685,1.702,1.713,1.72
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Curacao,CUW,..,..,2.1,2,2.2,2.1,2.2,2.1,2.2,2.1,2,1.9
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cyprus,CYP,2.411,1.716,1.498,1.479,1.461,1.443,1.424,1.405,1.388,1.373,1.36,1.35
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Czech Republic,CZE,1.9,1.15,1.34,1.45,1.51,1.51,1.51,1.43,1.45,1.46,1.53,1.57
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Denmark,DNK,1.67,1.77,1.85,1.84,1.89,1.84,1.87,1.75,1.73,1.67,1.69,1.71
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Djibouti,DJI,6.073,4.484,3.739,3.617,3.502,3.397,3.301,3.213,3.131,3.055,2.982,2.913
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Dominica,DMA,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Dominican Republic,DOM,3.465,2.892,2.718,2.687,2.656,2.626,2.597,2.568,2.539,2.51,2.481,2.451
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ecuador,ECU,3.767,3.027,2.763,2.736,2.71,2.684,2.656,2.628,2.599,2.571,2.542,2.514
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Egypt, Arab Rep.",EGY,4.663,3.233,3.004,3.016,3.055,3.114,3.185,3.253,3.306,3.335,3.336,3.311
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,El Salvador,SLV,3.964,3.022,2.465,2.41,2.358,2.31,2.265,2.224,2.187,2.155,2.126,2.101
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Equatorial Guinea,GNQ,5.987,5.834,5.498,5.433,5.363,5.288,5.209,5.126,5.04,4.952,4.864,4.775
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Eritrea,ERI,6.387,5.328,4.881,4.818,4.752,4.681,4.605,4.525,4.444,4.363,4.285,4.208
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Estonia,EST,2.05,1.36,1.58,1.69,1.72,1.7,1.72,1.61,1.56,1.52,1.54,1.58
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Eswatini,SWZ,5.619,4.187,3.819,3.758,3.689,3.611,3.527,3.44,3.355,3.276,3.204,3.141
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ethiopia,ETH,7.246,6.529,5.519,5.355,5.201,5.057,4.924,4.798,4.677,4.556,4.437,4.317
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Faeroe Islands,FRO,2.8,2.6,2.5,2.6,2.6,2.4,2.5,2.3,2.6,2.5,2.6,2.4
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Fiji,FJI,3.398,3.09,2.816,2.774,2.735,2.701,2.669,2.641,2.615,2.59,2.565,2.541
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Finland,FIN,1.78,1.73,1.84,1.83,1.85,1.86,1.87,1.83,1.8,1.75,1.71,1.65
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,France,FRA,1.77,1.89,2,1.98,2.01,2,2.03,2.01,2.01,1.99,2.01,1.96
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,French Polynesia,PYF,3.401,2.463,2.216,2.184,2.155,2.131,2.11,2.092,2.075,2.059,2.044,2.028
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Gabon,GAB,5.421,4.539,4.194,4.164,4.137,4.112,4.083,4.05,4.01,3.963,3.91,3.85
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Gambia, The",GMB,6.107,5.947,5.81,5.785,5.76,5.735,5.707,5.676,5.638,5.595,5.544,5.488
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Georgia,GEO,2.18,1.608,1.712,1.766,1.821,1.873,1.918,1.954,1.98,1.996,2.003,2.003
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Germany,DEU,1.45,1.38,1.33,1.37,1.38,1.36,1.39,1.39,1.41,1.42,1.47,1.5
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ghana,GHA,5.602,4.826,4.438,4.392,4.35,4.311,4.273,4.234,4.192,4.146,4.096,4.042
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Gibraltar,GIB,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Greece,GRC,1.39,1.25,1.4,1.41,1.5,1.5,1.48,1.4,1.34,1.29,1.3,1.33
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Greenland,GRL,2.444,2.329,2.256,2.299,2.247,2.359,2.195,2.117,2.019,2.077,2.037,2.01
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Grenada,GRD,3.842,2.582,2.321,2.301,2.282,2.262,2.24,2.217,2.194,2.171,2.148,2.126
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guam,GUM,3.013,2.824,2.599,2.562,2.528,2.498,2.472,2.448,2.427,2.406,2.386,2.367
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guatemala,GTM,5.437,4.598,3.833,3.701,3.58,3.471,3.375,3.292,3.219,3.151,3.089,3.029
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guinea,GIN,6.598,6.082,5.653,5.575,5.496,5.417,5.336,5.256,5.175,5.094,5.014,4.934
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guinea-Bissau,GNB,6.627,5.82,5.312,5.241,5.174,5.11,5.049,4.987,4.923,4.855,4.784,4.71
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guyana,GUY,3.069,3.017,2.797,2.755,2.718,2.684,2.655,2.63,2.606,2.582,2.559,2.534
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Haiti,HTI,5.43,4.302,3.667,3.579,3.493,3.408,3.325,3.245,3.169,3.098,3.033,2.973
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Honduras,HND,5.139,4.055,3.325,3.204,3.087,2.975,2.871,2.777,2.694,2.621,2.559,2.507
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Hong Kong SAR, China",HKG,1.272,1.032,0.984,1.028,1.064,1.055,1.127,1.204,1.285,1.125,1.235,1.196
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Hungary,HUN,1.87,1.32,1.34,1.32,1.35,1.32,1.25,1.23,1.34,1.35,1.44,1.45
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Iceland,ISL,2.3,2.08,2.08,2.09,2.15,2.23,2.2,2.02,2.04,1.93,1.93,1.8
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,India,IND,4.045,3.311,2.897,2.823,2.748,2.673,2.601,2.534,2.475,2.425,2.384,2.352
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Indonesia,IDN,3.122,2.512,2.51,2.505,2.499,2.492,2.483,2.471,2.455,2.436,2.414,2.389
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Iran, Islamic Rep.",IRN,4.818,2.211,1.805,1.788,1.778,1.772,1.765,1.755,1.742,1.727,1.708,1.686
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Iraq,IRQ,5.882,4.894,4.549,4.547,4.552,4.559,4.562,4.557,4.542,4.515,4.476,4.427
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ireland,IRL,2.11,1.89,1.91,2.01,2.06,2.06,2.05,2.03,2,1.96,1.94,1.92
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Isle of Man,IMN,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Israel,ISR,2.824,2.95,2.88,2.9,2.96,2.96,3.03,2.98,3.05,3.03,3.08,3.09
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Italy,ITA,1.33,1.26,1.37,1.4,1.45,1.45,1.46,1.44,1.43,1.39,1.37,1.35
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Jamaica,JAM,2.947,2.577,2.325,2.289,2.251,2.212,2.173,2.136,2.102,2.072,2.047,2.026
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Japan,JPN,1.54,1.359,1.32,1.34,1.37,1.37,1.39,1.39,1.41,1.43,1.42,1.45
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Jordan,JOR,5.488,4.033,3.725,3.707,3.693,3.68,3.663,3.638,3.604,3.56,3.506,3.445
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kazakhstan,KAZ,2.72,1.8,2.36,2.5,2.7,2.55,2.6,2.59,2.62,2.64,2.74,2.73
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kenya,KEN,6.066,5.178,4.763,4.677,4.582,4.48,4.373,4.267,4.165,4.072,3.989,3.917
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kiribati,KIR,4.688,4.058,3.895,3.883,3.872,3.859,3.843,3.822,3.796,3.766,3.731,3.693
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Korea, Dem. Rep.",PRK,2.289,1.987,2.001,1.999,1.994,1.987,1.979,1.968,1.957,1.945,1.933,1.921
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Korea, Rep.",KOR,1.57,1.467,1.123,1.25,1.192,1.149,1.226,1.244,1.297,1.187,1.205,1.239
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kosovo,XKX,3.9,2.95,2.43,2.43,2.38,2.34,2.29,2.24,2.19,2.16,2.13,2.09
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kuwait,KWT,2.967,2.845,2.45,2.4,2.344,2.281,2.215,2.151,2.094,2.046,2.011,1.986
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kyrgyz Republic,KGZ,3.63,2.4,2.7,2.7,2.8,2.9,3.1,3.1,3.2,3.1,3.2,3.2
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lao PDR,LAO,6.151,4.311,3.517,3.423,3.331,3.24,3.149,3.059,2.974,2.895,2.823,2.758
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latvia,LVA,2.02,1.25,1.46,1.54,1.58,1.46,1.36,1.33,1.44,1.52,1.65,1.7
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lebanon,LBN,3.002,2.225,1.678,1.628,1.601,1.598,1.614,1.641,1.671,1.696,1.713,1.72
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lesotho,LSO,4.919,4.089,3.473,3.412,3.365,3.33,3.303,3.278,3.253,3.222,3.186,3.143
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Liberia,LBR,6.499,5.88,5.366,5.277,5.19,5.105,5.023,4.944,4.868,4.794,4.721,4.65
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Libya,LBY,4.966,2.856,2.46,2.438,2.425,2.418,2.412,2.404,2.391,2.372,2.345,2.312
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Liechtenstein,LIE,..,1.57,1.43,1.42,1.43,1.71,1.4,1.69,1.51,1.45,1.59,1.4
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lithuania,LTU,2.03,1.39,1.33,1.36,1.45,1.5,1.5,1.55,1.6,1.59,1.63,1.7
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Luxembourg,LUX,1.6,1.76,1.65,1.61,1.61,1.59,1.63,1.52,1.57,1.55,1.5,1.47
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Macao SAR, China",MAC,1.722,0.938,0.869,0.909,0.957,1.008,1.061,1.112,1.16,1.205,1.245,1.28
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Macedonia, FYR",MKD,2.206,1.723,1.501,1.478,1.465,1.461,1.465,1.474,1.487,1.501,1.513,1.524
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Madagascar,MDG,6.179,5.551,4.956,4.866,4.777,4.689,4.603,4.52,4.442,4.37,4.303,4.241
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Malawi,MWI,6.922,6.149,5.83,5.733,5.611,5.467,5.308,5.146,4.992,4.856,4.74,4.646
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Malaysia,MYS,3.554,2.784,2.249,2.217,2.191,2.169,2.149,2.129,2.11,2.092,2.074,2.056
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Maldives,MDV,5.993,2.944,2.294,2.262,2.244,2.235,2.229,2.221,2.209,2.191,2.165,2.132
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mali,MLI,7.165,6.897,6.76,6.719,6.67,6.612,6.547,6.474,6.396,6.315,6.231,6.145
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Malta,MLT,2.04,1.7,1.36,1.35,1.43,1.42,1.36,1.45,1.43,1.38,1.42,1.45
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Marshall Islands,MHL,..,..,4.5,4.5,..,..,..,4.05,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mauritania,MRT,6.04,5.453,5.139,5.097,5.059,5.021,4.983,4.942,4.897,4.848,4.794,4.736
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mauritius,MUS,2.32,1.99,1.77,1.74,1.67,1.59,1.57,1.55,1.54,1.44,1.43,1.36
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mexico,MEX,3.47,2.716,2.456,2.421,2.391,2.364,2.341,2.318,2.295,2.27,2.243,2.215
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Micronesia, Fed. Sts.",FSM,4.958,4.3,3.739,3.661,3.589,3.522,3.46,3.402,3.347,3.294,3.243,3.194
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Moldova,MDA,2.414,1.435,1.227,1.242,1.256,1.268,1.274,1.273,1.269,1.263,1.256,1.248
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Monaco,MCO,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mongolia,MNG,4.052,2.143,2.239,2.331,2.434,2.539,2.637,2.716,2.774,2.805,2.811,2.793
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Montenegro,MNE,2.078,1.875,1.832,1.82,1.805,1.787,1.767,1.745,1.725,1.706,1.69,1.677
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Morocco,MAR,4.057,2.777,2.571,2.563,2.563,2.569,2.578,2.584,2.583,2.574,2.555,2.526
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mozambique,MOZ,6.211,5.818,5.706,5.674,5.639,5.602,5.562,5.519,5.472,5.421,5.365,5.305
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Myanmar,MMR,3.455,2.914,2.658,2.591,2.526,2.465,2.41,2.363,2.322,2.286,2.256,2.23
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Namibia,NAM,5.227,4.018,3.635,3.616,3.608,3.606,3.605,3.6,3.586,3.56,3.522,3.473
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nauru,NRU,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nepal,NPL,5.172,4.03,3.151,3.012,2.874,2.737,2.606,2.486,2.38,2.291,2.218,2.162
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Netherlands,NLD,1.62,1.72,1.72,1.72,1.77,1.79,1.79,1.76,1.72,1.68,1.71,1.66
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,New Caledonia,NCL,3.19,2.59,2.29,2.2,2.2,2.2,2.2,2.15,2.28,2.19,2.17,2.06
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,New Zealand,NZL,2.18,1.98,2.01,2.18,2.19,2.13,2.17,2.09,2.1,2.01,1.92,1.99
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nicaragua,NIC,4.597,3.083,2.622,2.571,2.522,2.475,2.428,2.383,2.34,2.3,2.264,2.231
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Niger,NER,7.772,7.679,7.588,7.566,7.542,7.515,7.487,7.455,7.42,7.381,7.338,7.29
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nigeria,NGA,6.49,6.106,5.958,5.93,5.902,5.872,5.839,5.802,5.758,5.709,5.653,5.591
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Northern Mariana Islands,MNP,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Norway,NOR,1.93,1.85,1.9,1.9,1.96,1.98,1.95,1.88,1.85,1.78,1.75,1.72
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Oman,OMN,7.165,3.716,2.909,2.892,2.89,2.897,2.901,2.896,2.878,2.846,2.799,2.737
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Pakistan,PAK,6.024,4.58,4.02,3.98,3.942,3.901,3.855,3.802,3.744,3.682,3.617,3.55
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Palau,PLW,2.84,1.83,..,..,..,..,..,..,2.23,..,..,2.21
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Panama,PAN,3.057,2.744,2.643,2.637,2.632,2.628,2.622,2.613,2.601,2.585,2.565,2.541
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Papua New Guinea,PNG,4.802,4.525,4.21,4.156,4.101,4.043,3.985,3.926,3.869,3.813,3.759,3.707
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Paraguay,PRY,4.547,3.553,2.97,2.907,2.846,2.787,2.73,2.675,2.625,2.581,2.542,2.509
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Peru,PER,3.828,2.929,2.648,2.616,2.589,2.566,2.545,2.525,2.504,2.481,2.456,2.429
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Philippines,PHL,4.32,3.811,3.425,3.349,3.278,3.214,3.158,3.109,3.067,3.028,2.992,2.958
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Poland,POL,2.06,1.37,1.27,1.31,1.39,1.4,1.41,1.33,1.33,1.29,1.32,1.32
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Portugal,PRT,1.56,1.55,1.37,1.35,1.39,1.34,1.39,1.35,1.28,1.21,1.23,1.31
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Puerto Rico,PRI,2.219,2.0485,1.7123,1.6505,1.6516,1.6528,1.6235,1.5965,1.5425,1.47,1.432,1.3365
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Qatar,QAT,4.013,3.236,2.433,2.312,2.211,2.13,2.07,2.027,1.997,1.972,1.95,1.929
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Romania,ROU,1.83,1.31,1.42,1.45,1.6,1.66,1.59,1.47,1.52,1.46,1.52,1.58
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Russian Federation,RUS,1.892,1.195,1.305,1.416,1.502,1.542,1.567,1.582,1.691,1.707,1.75,1.75
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Rwanda,RWA,7.184,5.64,5.021,4.9,4.774,4.644,4.515,4.389,4.269,4.158,4.058,3.967
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Samoa,WSM,5.118,4.503,4.46,4.45,4.426,4.388,4.338,4.277,4.212,4.148,4.086,4.029
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,San Marino,SMR,..,..,..,..,..,..,..,..,1.26,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sao Tome and Principe,STP,5.82,5.278,4.974,4.927,4.88,4.835,4.788,4.74,4.689,4.635,4.578,4.518
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Saudi Arabia,SAU,5.911,3.971,3.329,3.242,3.151,3.056,2.96,2.866,2.779,2.701,2.635,2.579
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Senegal,SEN,6.53,5.471,5.132,5.111,5.095,5.08,5.063,5.038,5.003,4.959,4.904,4.84
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Serbia,SRB,..,1.48,1.43,1.38,1.4,1.44,1.4,1.4,1.45,1.43,1.46,1.46
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Seychelles,SYC,..,2.08,2.11,2.24,2.33,2.38,2.17,2.38,2.42,2.37,2.34,2.41
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sierra Leone,SLE,6.721,6.319,5.747,5.621,5.487,5.346,5.202,5.06,4.923,4.793,4.672,4.561
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Singapore,SGP,1.83,1.6,1.28,1.29,1.28,1.22,1.15,1.2,1.29,1.19,1.25,1.24
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sint Maarten (Dutch part),SXM,..,..,..,1.5,1.7,1.7,..,2.03,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Slovak Republic,SVK,2.09,1.3,1.25,1.27,1.34,1.44,1.43,1.45,1.34,1.34,1.37,1.4
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Slovenia,SVN,1.46,1.26,1.31,1.38,1.53,1.53,1.57,1.56,1.58,1.55,1.58,1.57
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Solomon Islands,SLB,5.851,4.72,4.459,4.412,4.359,4.3,4.235,4.167,4.099,4.032,3.968,3.907
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Somalia,SOM,7.397,7.623,7.227,7.144,7.056,6.963,6.866,6.766,6.665,6.564,6.464,6.365
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Africa,ZAF,3.654,2.829,2.655,2.636,2.619,2.603,2.588,2.572,2.554,2.533,2.51,2.485
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Sudan,SSD,6.761,6.223,5.721,5.638,5.552,5.465,5.376,5.286,5.197,5.109,5.022,4.938
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Spain,ESP,1.36,1.22,1.36,1.38,1.45,1.38,1.37,1.34,1.32,1.27,1.32,1.33
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sri Lanka,LKA,2.483,2.241,2.283,2.274,2.257,2.232,2.203,2.17,2.138,2.109,2.083,2.063
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Kitts and Nevis,KNA,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Lucia,LCA,3.399,2.202,1.63,1.598,1.574,1.555,1.538,1.522,1.507,1.495,1.482,1.471
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Martin (French part),MAF,2.12,1.83,1.82,1.82,1.82,1.82,1.82,1.82,1.82,1.81,1.81,1.81
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Vincent and the Grenadines,VCT,2.956,2.379,2.149,2.131,2.112,2.092,2.07,2.046,2.021,1.998,1.975,1.953
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sudan,SDN,6.152,5.471,5.085,5.03,4.977,4.926,4.876,4.825,4.771,4.715,4.656,4.595
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Suriname,SUR,3.267,2.861,2.638,2.606,2.575,2.547,2.52,2.495,2.47,2.445,2.421,2.396
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sweden,SWE,2.13,1.54,1.85,1.88,1.91,1.94,1.98,1.9,1.91,1.89,1.88,1.85
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Switzerland,CHE,1.58,1.5,1.44,1.46,1.48,1.5,1.52,1.52,1.52,1.52,1.54,1.54
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Syrian Arab Republic,SYR,5.31,4.043,3.471,3.394,3.325,3.264,3.21,3.16,3.113,3.065,3.016,2.966
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tajikistan,TJK,5.226,3.907,3.485,3.486,3.493,3.502,3.507,3.504,3.492,3.472,3.442,3.404
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tanzania,TZA,6.213,5.689,5.616,5.584,5.542,5.489,5.427,5.359,5.287,5.215,5.146,5.079
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Thailand,THA,2.113,1.671,1.561,1.557,1.553,1.551,1.547,1.542,1.534,1.524,1.512,1.498
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Timor-Leste,TLS,5.34,7.112,6.694,6.59,6.477,6.357,6.234,6.109,5.983,5.859,5.737,5.618
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Togo,TGO,6.324,5.41,5.123,5.064,5.001,4.936,4.868,4.798,4.727,4.656,4.586,4.517
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tonga,TON,4.644,4.25,4.104,4.059,4.012,3.963,3.913,3.864,3.815,3.768,3.722,3.678
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Trinidad and Tobago,TTO,2.453,1.753,1.78,1.79,1.799,1.804,1.806,1.804,1.798,1.789,1.778,1.766
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tunisia,TUN,3.476,2.142,1.999,2.022,2.057,2.099,2.144,2.184,2.214,2.231,2.234,2.223
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Turkey,TUR,3.107,2.503,2.241,2.214,2.192,2.172,2.155,2.139,2.124,2.108,2.09,2.072
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Turkmenistan,TKM,4.344,2.824,2.653,2.672,2.712,2.769,2.833,2.892,2.936,2.958,2.956,2.931
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Turks and Caicos Islands,TCA,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tuvalu,TUV,..,..,..,..,..,..,..,..,..,..,..,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Uganda,UGA,7.091,6.865,6.507,6.424,6.337,6.247,6.154,6.059,5.964,5.869,5.775,5.682
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ukraine,UKR,1.844,1.11,1.31,1.345,1.458,1.473,1.443,1.459,1.531,1.506,1.498,1.506
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United Arab Emirates,ARE,4.454,2.644,2.073,2.005,1.949,1.904,1.869,1.841,1.82,1.801,1.783,1.765
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United Kingdom,GBR,1.83,1.64,1.82,1.86,1.91,1.89,1.92,1.91,1.92,1.83,1.81,1.8
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United States,USA,2.081,2.056,2.108,2.12,2.072,2.002,1.931,1.8945,1.8805,1.8575,1.8625,1.8435
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Uruguay,URY,2.52,2.242,2.142,2.126,2.11,2.094,2.078,2.063,2.048,2.033,2.019,2.007
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Uzbekistan,UZB,4.072,2.58,2.39,2.554,2.637,2.53,2.342,2.236,2.193,2.35,2.457,2.491
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Vanuatu,VUT,4.927,4.368,3.76,3.679,3.608,3.548,3.498,3.456,3.419,3.383,3.348,3.312
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Venezuela, RB",VEN,3.448,2.822,2.595,2.562,2.53,2.5,2.472,2.444,2.417,2.391,2.366,2.341
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Vietnam,VNM,3.553,2.01,1.901,1.911,1.923,1.936,1.946,1.953,1.957,1.959,1.96,1.958
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Virgin Islands (U.S.),VIR,2.954,2.06,2.03,2.51,2.44,2.37,2.3,2.16,2.05,2.07,2.09,2.11
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,West Bank and Gaza,PSE,6.718,5.383,4.695,4.623,4.554,4.487,4.419,4.35,4.281,4.212,4.143,4.075
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Yemen, Rep.",YEM,8.606,6.313,5.253,5.09,4.94,4.801,4.674,4.554,4.44,4.327,4.215,4.104
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Zambia,ZMB,6.442,6.036,5.721,5.642,5.561,5.478,5.397,5.318,5.242,5.171,5.104,5.041
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Zimbabwe,ZWE,5.176,4.055,3.991,4.001,4.014,4.024,4.028,4.019,3.996,3.957,3.903,3.836
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Data from database: Millennium Development Goals,,,,,,,,,,,,,,,
+Last Updated: 09/19/2018,,,,,,,,,,,,,,,

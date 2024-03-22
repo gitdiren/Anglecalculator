@@ -1,0 +1,97 @@
+
+
+#Task 1 & Task 2 
+#using dictionaries and tuples 
+ 
+my_dictionary = { 
+    "name": "Ayse", 
+    "age": 24, 
+    "weight": 79 
+    } 
+my_dictionary['weight'] = 67.8 
+print('my dictionary is', my_dictionary) 
+ 
+#changing dictionary value 
+my_dictionary['weight'] = int(67.8) 
+print('my new dictionary is', my_dictionary) 
+ 
+ 
+my_tuple = ('summer','winter','autumn','spring') 
+print('the type of my tuple is', type(my_tuple)) 
+ 
+# using built in functions like len() and type(), looping through lists 
+ 
+fruits = ['banana', 'apple','orange','melon','strawberry','raspberry'] 
+ 
+for fruit in fruits: 
+    print(f'my favourite fruit is {fruit}') 
+ 
+ 
+print('the type of my list is:', type(fruits)) 
+ 
+#using arithmetic operators 
+print('The addition of the no of items in my tuple and fruits is: ', len(fruits)+len(my_tuple)) 
+print('The subtraction of the no of items in my tuple and fruits is: ', len(fruits) - len(my_tuple)) 
+print('The division of the no of items in my tuple and fruits is: ', len(fruits) / len(my_tuple)) 
+print('The multiplication of the no of items in my tuple and fruits is: ', len(fruits) * len(my_tuple)) 
+ 
+#using range() 
+ 
+for number in range(0,5): 
+    print(number) 
+ 
+#guesing the number: this is a game where the user is trying to find out the number that was pre-set. 
+ 
+print("Let's Play: Guess My Number") 
+ 
+while True: 
+    picked_no = 6 
+    number = int(input('pick a number from 0 to 10: ')) 
+    if number > picked_no: 
+        print('You picked a number bigger than my number!') 
+        continue 
+    elif number < picked_no: 
+        print('You picked a number smaller than my number!') 
+        continue 
+    else: 
+        print('Well done! You found my number!') 
+        break 
+ 
+ 
+ 
+
+#Task 3- Write a Python program that defines and calls the following functions: 
+ 
+#1. A function that calculates the area of a circle, formula for area of a circle is A=πr**2 
+ 
+def area_circle(r): 
+    return 3.14*r**2 
+ 
+print(area_circle(3)) 
+ 
+#2. A function that checks if a number is even or odd 
+ 
+def even_odd(number): 
+    if number%2 == 0: 
+        return 'even' 
+    else: 
+        return 'odd' 
+ 
+print(even_odd(8)) 
+ 
+#3. A function that returns a formatted string 
+def formatted_string(string): 
+
+    return string.upper() 
+
+  
+
+print(formatted_string('hello')) 
+
+     
+
+
+
+
+
+

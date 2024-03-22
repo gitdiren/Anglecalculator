@@ -1,0 +1,272 @@
+Series Name,Series Code,Country Name,Country Code,1990 [YR1990],2000 [YR2000],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Africa Eastern and Southern,AFE,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Africa Western and Central,AFW,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Arab World,ARB,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Caribbean small states,CSS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Central Europe and the Baltics,CEB,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Early-demographic dividend,EAR,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,East Asia & Pacific,EAS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,East Asia & Pacific (excluding high income),EAP,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,East Asia & Pacific (IDA & IBRD countries),TEA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Euro area,EMU,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Europe & Central Asia,ECS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Europe & Central Asia (excluding high income),ECA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Europe & Central Asia (IDA & IBRD countries),TEC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,European Union,EUU,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Fragile and conflict affected situations,FCS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Heavily indebted poor countries (HIPC),HPC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,High income,HIC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,IBRD only,IBD,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,IDA & IBRD total,IBT,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,IDA blend,IDB,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,IDA only,IDX,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,IDA total,IDA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Late-demographic dividend,LTE,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Latin America & Caribbean,LCN,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Latin America & Caribbean (excluding high income),LAC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Latin America & the Caribbean (IDA & IBRD countries),TLA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Least developed countries: UN classification,LDC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Low & middle income,LMY,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Low income,LIC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Lower middle income,LMC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Middle East & North Africa,MEA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Middle East & North Africa (excluding high income),MNA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Middle East & North Africa (IDA & IBRD countries),TMN,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Middle income,MIC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,North America,NAC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Not classified,INX,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,OECD members,OED,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Other small states,OSS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Pacific island small states,PSS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Post-demographic dividend,PST,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Pre-demographic dividend,PRE,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Small states,SST,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,South Asia,SAS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,South Asia (IDA & IBRD),TSA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sub-Saharan Africa,SSF,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sub-Saharan Africa (excluding high income),SSA,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sub-Saharan Africa (IDA & IBRD countries),TSS,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Upper middle income,UMC,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,World,WLD,..,..,..,..,..,..,..,..,..,..,..,..
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Afghanistan,AFG,109134.5,185206,350468,366348.5,378350,387238.5,398597,410387,422572,436318.5,447710,455985.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Albania,ALB,31524,30225.5,26363,25301.5,24030.5,22676.5,22149.5,21468,19474,18720,18523.5,18082.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Algeria,DZA,265711,361883,324764,312548,301683.5,286876,276503,276818,278764,281961,290258,303302.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,American Samoa,ASM,459.5,466.5,562,524,483.5,452.5,425.5,401,380.5,362,343,332
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Andorra,AND,381.5,339.5,314,323,340.5,371.5,412,408,390.5,406,403,394.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Angola,AGO,112964,163806,257559,265703,274024,282616,292524.5,303781.5,316279,329441,342998,357522
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Antigua and Barbuda,ATG,582.5,646.5,749,755,742,707,669,694,703,663,643,629
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Argentina,ARG,273195.5,321797.5,348527,345406.5,341675,339838.5,341308.5,342237,340219.5,338629.5,337500,337407
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Armenia,ARM,29351.5,27972.5,22159.5,20415,19189.5,17975,16877,15917.5,15199,14993.5,15203,15656.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Aruba,ABW,364,588.5,699,670.5,635,605.5,588,594,619,649,679,695
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Australia,AUS,142363.5,128366,145635.5,145729,145533,145844,147119.5,148710,147490,145078,144784,146042.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Austria,AUT,53241.5,48812,47140,46731,46359.5,45020.5,43599.5,43035,42473,42308,42357,42332
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Azerbaijan,AZE,67352.5,78068,82496,77646.5,72411,68219,65704,63674.5,61636.5,60734,61634,63773
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Bahamas, The",BHS,2836,2775.5,3428.5,3413,3420.5,3423,3411,3414.5,3430.5,3414.5,3378,3342.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bahrain,BHR,3673.5,5831,6893,6957.5,7177,7251.5,7224.5,7284.5,7277.5,7126.5,7320,8067.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bangladesh,BGD,1097728.5,1430125,1537318,1546522.5,1577566,1608652.5,1624223,1640967.5,1654189,1663329,1667199.5,1660982
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Barbados,BRB,2349,1923,1780,1793,1824.5,1839,1852,1880.5,1893.5,1863.5,1820,1799
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Belarus,BLR,73005.5,80218.5,48645,45819,44128.5,44383.5,45477.5,46855,47451.5,46312,45771,46033
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Belgium,BEL,67624.5,61487,61687.5,62006,62452.5,62151,61873.5,62401.5,62686,62090,61956,62875.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Belize,BLZ,1954.5,2577.5,3622,3663,3712.5,3784.5,3860.5,3910.5,3924,3903.5,3876,3863
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Benin,BEN,51326,71588,107032.5,107739,109913.5,112536,115408,118229.5,121241.5,124915.5,129309,133658.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bermuda,BMU,379.5,339,304.5,312,310.5,309.5,325.5,342,344,332.5,321,315
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bhutan,BTN,5253.5,6109.5,7227.5,7041.5,6879,6821.5,6883.5,6992,7080,7137.5,7168.5,7137
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bolivia,BOL,71021.5,84782,108102.5,109052,109798,110597.5,112048,112950,113019.5,113354,114190.5,115052
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bosnia and Herzegovina,BIH,37712.5,36924,23224.5,24091,23768.5,22326.5,20321.5,18786.5,17796,17091,16564.5,16351
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Botswana,BWA,14574,21596,22329.5,21847.5,21512.5,21585,21945,22403,22882.5,23176,23379.5,23756
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Brazil,BRA,1477803.5,1771111.5,1694442,1698093.5,1696193.5,1695487,1683344.5,1661374,1638985.5,1610045,1571533.5,1551272.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,British Virgin Islands,VGB,135,145.5,192,195.5,199.5,202,208,213.5,211.5,206,203.5,204
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Brunei Darussalam,BRN,2266.5,3282,3424,3415.5,3352,3298,3342.5,3402.5,3376.5,3352.5,3342,3279
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Bulgaria,BGR,58639,55147.5,33789,31781,29394,27916.5,30980.5,33034,31403.5,29864,29839,30455
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Burkina Faso,BFA,88159,127119.5,177985,183591,189044.5,194295,200051,206463.5,212855,219312,227203.5,235668
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Burundi,BDI,55200.5,77981.5,92665,102057.5,98512.5,94971,97602.5,103453,109637.5,116305,123543,131278.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cabo Verde,CPV,3712,5456,6157,5954,5740.5,5616.5,5580.5,5517,5353.5,5197,5133.5,5137.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cambodia,KHM,92666,131545,152990.5,144377.5,133556.5,134441,140791,139605,139003,140255,142028.5,143889.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cameroon,CMR,114733.5,164075.5,225434.5,229405,234137.5,240002.5,247487,254443,260506.5,268464,278561,288832
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Canada,CAN,191299.5,203786,216659.5,212587,207613.5,206245,208681.5,211177,210572,205833.5,202441,202603
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cayman Islands,CYM,238.5,225.5,332.5,339,341,336.5,324.5,310.5,298.5,279,267,262
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Central African Republic,CAF,27962.5,38859.5,52276.5,52602,53224.5,54935.5,56916,58984,60843,62408,63921.5,65535
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Chad,TCD,60999.5,74082.5,129670.5,137047,143216,147413,152408.5,157527,162993.5,167612.5,172440,179948
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Channel Islands,CHI,954,816,889.5,896,911,901.5,902.5,915,940,957,976.5,985
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Chile,CHL,124038,126723.5,136270.5,133626,131112,128915.5,127558.5,126751.5,126900.5,126520.5,123907,119520.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,China,CHN,12522694,10642117,8399009,8109189,7813624,7573034.5,7404615.5,7505329,7467930,7244655.5,7204943.5,7259451.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Colombia,COL,327520,382633,422132,419777,416799,414419,415451,418545.5,419627,417177,412019.5,403200.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Comoros,COM,4293,5797.5,7465.5,7648.5,7799,7914.5,7952.5,7910.5,7846,7744,7661,7754
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Congo, Dem. Rep.",COD,355717.5,466659.5,759328,798952.5,810590.5,818637.5,838589.5,866476.5,894110,924291,957137,988529
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Congo, Rep.",COG,25227.5,32676.5,45319.5,45978,46974.5,47892,48933.5,50108.5,52205.5,54759,56491,58580.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Costa Rica,CRI,27826.5,37048,40165.5,39760.5,39444.5,39009,38657,38551,38096.5,37076,36228.5,35917
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cote d'Ivoire,CIV,120606.5,182467.5,228416,235356,244230,254792.5,264462.5,272551.5,279087.5,285756,294076.5,301983
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Croatia,HRV,32732.5,30873,24204,24471.5,24493.5,23762.5,22551,21402.5,20281,19304,18814,18541
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cuba,CUB,112277.5,67635.5,69000.5,69062,69360,69925,70090.5,69640.5,68554,67089.5,65033,61863
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Curacao,CUW,1223.5,979.5,1242.5,1210,1154,1116.5,1102.5,1240,1334.5,1305,1322.5,1322
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Cyprus,CYP,6193.5,7837,7552,7273.5,7030,6822,6647,6499.5,6380,6284.5,6208,6178
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Czechia,CZE,75941.5,69226,50387,46422,45002.5,44998,44995,45078.5,45518,46068.5,46423.5,47530.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Denmark,DNK,36923,27621.5,35956,35488,34938.5,34490,34125,34313.5,34149.5,33473,33335,33713
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Djibouti,DJI,6014.5,7764.5,9692.5,9756.5,9812,9987.5,10319.5,10660,10969.5,11244,11416,11415
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Dominica,DMA,773,593.5,622.5,624.5,624.5,599.5,608,622,622,603,576,557.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Dominican Republic,DOM,78155.5,86296,97634.5,97177,96404.5,95114,94938.5,96023.5,96371.5,96096.5,95881,95415.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Ecuador,ECU,108779,127213,147408.5,148371.5,149304.5,150391,151512,152870.5,153987.5,154155.5,154066,153605
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Egypt, Arab Rep.",EGY,535209.5,736037,844782.5,847879.5,853970,867351.5,879859.5,887873,900587,914622.5,929592,942800
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,El Salvador,SLV,57497,63081,69519.5,69753,69545,69227,68400.5,66587.5,63978,60934.5,58038.5,55863
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Equatorial Guinea,GNQ,4193.5,5838.5,11406,11405,11399,11392,11394,11376.5,11339,11485.5,12041.5,13023
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Eritrea,ERI,21747,24509,34964.5,36907,38240.5,37433.5,37053.5,37460,38176.5,39604.5,41332.5,43164.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Estonia,EST,10663.5,9720,6313,6122,5900,5650,5674,5859.5,5898.5,6018,6224.5,6429.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Eswatini,SWZ,9189.5,12717,12971.5,12203,11937.5,11739.5,11749.5,11805.5,11731.5,11681,11777.5,12033.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Ethiopia,ETH,470927,639695,1047784.5,1084160,1118748,1147557.5,1179108.5,1209841,1241244,1276572.5,1301494.5,1324322.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Faroe Islands,FRO,371,316,332.5,357.5,351.5,309.5,301.5,337,335.5,348,373.5,350
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Fiji,FJI,7426.5,8953,8115.5,8045,7899.5,7710,7597,7557,7564.5,7646.5,7766.5,7878
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Finland,FIN,29230,32397.5,32314.5,31175.5,30357,29574,29167,29060,28781,28633.5,28943,29644
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,France,FRA,438398,393696,360948.5,365342,363202.5,365505.5,372031,379303,384258,380920,377708,377451
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,French Polynesia,PYF,2007,2317,2333,2237.5,2180.5,2128,2198.5,2323,2357,2338.5,2263,2187.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Gabon,GAB,9178.5,13265.5,18140,18303.5,18553.5,18865.5,19162.5,19527,19950,20370.5,20825.5,21338.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Gambia, The",GMB,10675,14944.5,21549.5,22133.5,22837.5,23669,24444.5,25114,25867.5,26665.5,27708,28846.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Georgia,GEO,40520,33616,23951,22969,22485.5,21768.5,20789.5,20172,19977.5,19827.5,19706.5,19738
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Germany,DEU,475937.5,456225,393217.5,398554,409860.5,409893,402709.5,399316.5,391807,381249,375872,373433
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Ghana,GHA,148376,224554,264375.5,266416,270304.5,277699.5,286957.5,298236.5,308185,315585.5,322500.5,328750.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Gibraltar,GIB,188.5,175.5,186,179.5,184,187,179,185.5,183,173,170.5,191.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Greece,GRC,75367.5,74571.5,53391.5,53188.5,52751.5,52271,52737.5,54173.5,54381,53358.5,52688,52093.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Greenland,GRL,337,361.5,428,410.5,397.5,391.5,383,368,351,340,333,335.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Grenada,GRD,892,1042.5,982.5,963,947,935,930.5,930,881.5,837,842,847.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Guam,GUM,1210,1263,1434.5,1430.5,1423.5,1407.5,1389.5,1365,1335,1324,1329,1335.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Guatemala,GTM,92957,127684,172514,175119.5,177307.5,179797.5,181341,182783.5,185428.5,186822,186563,186299
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Guinea,GIN,62169.5,80999.5,121533,124546.5,128068.5,129875,131597,134333,136482.5,138097.5,140191.5,143362
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Guinea-Bissau,GNB,9729.5,13818,17340.5,17804.5,18325,18845.5,19331.5,19855,20391.5,21046.5,21763.5,22363.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Guyana,GUY,8452.5,7035,7905,7879.5,7819,7741.5,7638.5,7677.5,7568.5,7283.5,7155.5,7078.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Haiti,HTI,67633,89866.5,108272.5,108977,109773,110411.5,111123.5,112394,112880,112457.5,112582.5,113088.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Honduras,HND,53369,73706,95931,97401.5,98954.5,100799.5,102962.5,104462,105015,105096.5,104877.5,104551.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Hong Kong SAR, China",HKG,46109,46187.5,42847.5,42500.5,40247.5,36069.5,32077,30269.5,28940,27202.5,26351,25979.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Hungary,HUN,70431.5,67649.5,57463,55199.5,51592,48831.5,47414,47457.5,48068.5,47860.5,47203.5,50897.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Iceland,ISL,2115,2122.5,2224.5,2199,2183.5,2152,2181.5,2219.5,2183,2148,2174,2213
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,India,IND,8338488,10146910.5,11771131.5,11833427.5,11887760,11955498,12019864,12122648.5,12278637,12353634.5,12307114,12230228
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Indonesia,IDN,1896879,2142219.5,2107870.5,2134410,2160514.5,2162664.5,2141949,2132555,2136937,2137243.5,2136917.5,2145525.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Iran, Islamic Rep.",IRN,500943.5,830574,612537.5,573181,559641,555411,549021.5,542950.5,540363.5,540732,544285,553409
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Iraq,IRQ,195377.5,250864.5,367209.5,375922,384745.5,394405,402820,410951,417306,422575,428950.5,439133.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Ireland,IRL,31900.5,32341,26875,27542,28576,29314.5,29831,30366,31086.5,31894.5,32253.5,32038
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Isle of Man,IMN,498.5,438.5,482,475.5,475,474,461,421.5,407,422.5,417.5,408.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Israel,ISR,42925.5,51150,56431.5,58649.5,59858.5,60831,62377,63415,64541.5,65690,67771,69005
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Italy,ITA,433437,306596,276297,274833,275219,275296.5,275879,278571.5,278757.5,275326.5,274915.5,277449.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Jamaica,JAM,25644,27126.5,28704.5,27611.5,26715.5,26518,25623.5,23779,22493.5,22404,22468,22573
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Japan,JPN,971170.5,715755.5,597034,590880.5,591526,588784.5,583842.5,583911.5,581416.5,569395,557623.5,546401
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Jordan,JOR,37202.5,49968,79566.5,87542.5,93228.5,94884,94246.5,96494.5,98744,99192,102425.5,104747
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Kazakhstan,KAZ,145548,136562.5,132698,124056.5,116665,113228.5,112169.5,111983,111572,112621,117970.5,125954.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Kenya,KEN,259157.5,355625,463552,475019.5,486981.5,502133.5,517593,532672.5,551154,568815.5,582855,597629
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Kiribati,KIR,688,905,1201.5,1226,1240,1235,1213,1178.5,1139.5,1104.5,1084,1098
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Korea, Dem. People's Rep.",PRK,233974,175224.5,196451,194504.5,191063,187421.5,184834.5,181129,178490.5,175650.5,171344.5,168742
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Korea, Rep.",KOR,462578.5,403119,330452.5,326039.5,318937,308963.5,299433,298221,286009.5,253958,233042.5,226363
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Kosovo,XKX,20453.5,18001.5,17030.5,16449,16028,15688,15449,15974,16656.5,16353,15334,14585
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Kuwait,KWT,12618.5,15364.5,19707,20050.5,19745,19934,20263.5,20765.5,21490,20833.5,20014,20869
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Kyrgyz Republic,KGZ,41893.5,50643.5,58462.5,57382,54620.5,52678,51633.5,50453,49766,50126,50808,51991.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Lao PDR,LAO,43978,55443,70266.5,70417,70457.5,70959.5,71894.5,72571,72392.5,71177,70123.5,70043.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Latvia,LVA,18806,17221,9919.5,8847.5,8260.5,8152.5,8701,9209.5,8900,8600.5,8739,8637
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Lebanon,LBN,35931,42496.5,48203.5,52264.5,52473,50677.5,49307,48219.5,47372.5,46469,45552.5,44712
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Lesotho,LSO,18901.5,23853,22746,22835,22976.5,22800.5,22416,22195,22320.5,22748,23135,23076.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Liberia,LBR,22553.5,30653,42657.5,43933.5,45365,46958.5,48634.5,50311,51921,53505,55103,57002.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Libya,LBY,42783.5,55341,49640,51343.5,52851.5,54213.5,55328.5,56314.5,57406,58795,60387.5,61968
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Liechtenstein,LIE,218.5,195.5,210.5,223,226,224,219.5,211.5,192,191.5,187.5,186
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Lithuania,LTU,28421.5,26424,18802,17882.5,16939,16121.5,15557.5,14754,13612,12685.5,12348.5,12191.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Luxembourg,LUX,2291,2387,3159,3186,3227,3214,3247,3341,3336.5,3237,3186,3252
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Macao SAR, China",MAC,3302,3292.5,3976.5,4003,3989.5,3985,3946.5,3827.5,3584,3255,2896,2624
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Madagascar,MDG,129034,159703.5,251222,259683,266906,272722,277684,281815.5,286471.5,292014.5,298024,305192
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Malawi,MWI,96818.5,127804.5,167653,173170,179299,186579,194023,200865,208371.5,217485.5,227330,237243.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Malaysia,MYS,165815.5,210649.5,280306,275692,271802.5,271058.5,272092,271673.5,269950.5,267532,263589.5,261117.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Maldives,MDV,2305.5,3281,3439,3372,3341.5,3285,3210,3117,3015.5,2910,2833,2780
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Mali,MLI,89197.5,123245.5,165028,168806,174691.5,181906.5,190812.5,200016,208604,217900,227668,238054.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Malta,MLT,2623,2926.5,2447.5,2460.5,2483,2439.5,2364.5,2322,2192,2036.5,2097,2112.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Marshall Islands,MHL,409.5,607,425,418,413,412.5,416.5,403.5,355.5,301,283.5,318
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Mauritania,MRT,20791,28070.5,38915,39978,41012.5,42063,43178,44408,45774.5,47280,48915,50674
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Mauritius,MUS,9585.5,10960,10164.5,9920.5,9745,9343.5,9463.5,9758,9606.5,9609.5,9590,9487.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Mexico,MEX,944670.5,1019122.5,1090591,1080282.5,1071672.5,1072037.5,1076355.5,1079089,1080081,1079954,1078507,1074145.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Micronesia, Fed. Sts.",FSM,1081,1338,1201,1185,1211.5,1265.5,1233.5,1188,1137,1110.5,1150.5,1163.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Moldova,MDA,31820.5,38645.5,25136,22919.5,20743,18878,17615.5,16792,16179.5,15889,15996.5,19705.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Monaco,MCO,145.5,136.5,144.5,151.5,155,158.5,159.5,157,155.5,153.5,148.5,142
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Mongolia,MNG,22819.5,26026,24624,24220.5,23521,23026.5,22959,22901.5,22546,21872.5,21309.5,21181.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Montenegro,MNE,5073.5,5220,4409,4358.5,4185,4078.5,3970.5,3945,3990,3946,3844.5,3702
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Morocco,MAR,264991.5,313856,303620.5,299519.5,298332,297180,293422.5,291565.5,291980,291274,291620,294363
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Mozambique,MOZ,139436,179398,262528.5,271569.5,282701,294072.5,304165,313834.5,322946,331904,341751.5,350603
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Myanmar,MMR,412787.5,464260.5,454540.5,453249,451466,448474,445963,445060,448587,455500,456422.5,450261
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Namibia,NAM,15764,18860.5,25224.5,24501.5,24166,24361.5,24621,24562,24177,23833,23710.5,23819.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Nauru,NRU,82,108.5,91.5,96,102,101.5,102.5,108,108,104.5,106,109.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Nepal,NPL,188477.5,244905,325512,325011,322097.5,321884.5,324041,325676.5,324885,322790,323423.5,322085
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Netherlands,NLD,113351.5,91003.5,99090,98318,99433,101962.5,104122,106135.5,105965.5,103764,102677,100643
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,New Caledonia,NCL,1857,1845.5,2206,2249.5,2236,2194,2198,2263.5,2268,2197.5,2142,2085.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,New Zealand,NZL,29880.5,26898,30683.5,30796.5,30918,30717,30542,31040,31464.5,31264.5,31217,31344
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Nicaragua,NIC,48116.5,59865.5,66953,66825,66333.5,65707.5,65283.5,64909,64534.5,64282.5,64128.5,63987
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Niger,NER,81397.5,114494.5,179739.5,188923.5,197834.5,206888,215955.5,225351,235094,245104,255790.5,267006
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Nigeria,NGA,912765.5,1277686.5,1690343.5,1737465.5,1778775,1820359,1881769.5,1958144.5,2030408.5,2102512.5,2172759.5,2236734.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,North Macedonia,MKD,14087,17015.5,14833.5,14465.5,13980,13513.5,13118,12900,12942,13000,12883,11993
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Northern Mariana Islands,MNP,347,467.5,419.5,401.5,380.5,358.5,333.5,309.5,288,274.5,271,277
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Norway,NOR,32144.5,26174,31653.5,32099.5,32167,31712,31665,31916,31425,30693,30748,31223.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Oman,OMN,14591,24840.5,24883.5,23866,23276,23072.5,23009,22997.5,23045,23700,24441,25449.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Pakistan,PAK,1054825.5,1546744.5,2126164.5,2141049,2162507.5,2190444.5,2226678.5,2262686,2306381.5,2358333.5,2392027,2411991.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Palau,PLW,132.5,123.5,132.5,124.5,120,119.5,120.5,120.5,117,115,116.5,118
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Panama,PAN,25914,28513,32100.5,32444,32811,33193,33565,33885.5,34184.5,34431.5,34650.5,35132
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Papua New Guinea,PNG,37704,54003,80117.5,81704,83548,85484.5,87543.5,89533.5,91446,93337.5,95120.5,96498
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Paraguay,PRY,39423.5,52806.5,61735,61750,61620.5,61326,60882,60330.5,59606,58874.5,58451.5,58272
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Peru,PER,236276,273973,269206,267180,266542,267538,269676,274065.5,276447,276602.5,279387,283929
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Philippines,PHL,646198,788434.5,968770.5,980497,988683.5,993025,1003571,1025254.5,1027876.5,1019468.5,1025544,1036538
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Poland,POL,269977,322149,220769.5,210117,202861.5,194708.5,187993.5,184758,181485.5,175765.5,171861.5,196045
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Portugal,PRT,82272,71205.5,53028.5,52989.5,53760,54273.5,55048,56485,54891.5,52963,53149.5,52535.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Puerto Rico,PRI,32049,29637.5,25708,24721,23640.5,22662.5,21691.5,20846.5,20115,19280,18518.5,18111
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Qatar,QAT,2379,3674.5,6126,6129,6037.5,6296,6591.5,6790.5,7374.5,7456.5,7329,8825
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Romania,ROU,178190.5,162879,108502,105604,104367,104676.5,105117,103706,101123.5,98856,98844,106226
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Russian Federation,RUS,1009084.5,1171790,726167,689719.5,654156.5,651104,649504,656175.5,668679,683706,718089,738187
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Rwanda,RWA,71477.5,104847,116830.5,118596.5,119628,121675,125432.5,130371,136370.5,141171.5,144875.5,149757
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Samoa,WSM,1845.5,1676.5,1969,1957,1942.5,1929,1916,1903,1889,1899,1950.5,2012.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,San Marino,SMR,165,129.5,142,141.5,150,158.5,167,166,172,168,156.5,165
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sao Tome and Principe,STP,1194,1775.5,1895.5,1921.5,1947,1987,2049.5,2134,2237.5,2348.5,2443.5,2531
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Saudi Arabia,SAU,141920,187878,258273.5,253386.5,247629,238695.5,240242,249947.5,263918,271299.5,267436,263830.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Senegal,SEN,77017,108369,137866,140706,144186,148382.5,153528.5,158633.5,162942,167543,172857,178100.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Serbia,SRB,52965.5,50846,42263.5,42416,41064,35440.5,31677.5,34353,37835.5,39477.5,39077,36653
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Seychelles,SYC,718.5,688,787,773.5,718,645.5,640.5,647.5,640,639.5,657,664
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sierra Leone,SLE,42101,45333,71221,73460,75829.5,78163,80603.5,83027.5,85503.5,87980,89930,90921
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Singapore,SGP,25756.5,25745.5,35881,35669,35646.5,35015,33623,31506.5,29198.5,27158,25586,24781
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sint Maarten (Dutch part),SXM,212.5,163,413.5,478.5,522.5,549.5,559,566.5,570.5,551.5,506,451
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Slovak Republic,SVK,40034,44260,31016.5,29328,28664.5,28043.5,27529,27098.5,25829.5,24849.5,24970,28672.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Slovenia,SVN,14245.5,14113.5,9956,9715,9580.5,9402,9276,9493,9453,9174,9106.5,9308.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Solomon Islands,SLB,3479,4462.5,5670,5801.5,5899,6020,6185,6337,6465.5,6596,6732,6868.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Somalia,SOM,66400.5,87457.5,132223,136715.5,141874,147833,153636.5,159175.5,164872,170722,176319.5,181713.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,South Africa,ZAF,398704,507527.5,531194.5,519037.5,496578,471934.5,458128,446991,437793.5,434889,439912,458489
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,South Sudan,SSD,48864.5,58027,106231,103790,100176.5,97425.5,97194.5,101911.5,109617,118637,125028,129425
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Spain,ESP,322943.5,270472.5,207666.5,207126,209317.5,209677,213582,221208.5,226229,228653.5,234791,241934.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sri Lanka,LKA,167628,185816,167677,165328,162817.5,161492.5,161714.5,163831,166849,168857,169992,171324
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,St. Kitts and Nevis,KNA,387.5,423.5,386,389.5,391,390,388.5,378,355.5,336.5,323,311
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,St. Lucia,LCA,1456.5,1628.5,1645.5,1626,1561.5,1492,1473.5,1480,1432.5,1347.5,1286.5,1266
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,St. Martin (French part),MAF,189,210,195.5,198.5,220,213.5,191,160,137,131.5,126,151
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,St. Vincent and the Grenadines,VCT,1197.5,1194,954.5,913,868.5,831,807.5,793.5,775,753.5,733,717.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sudan,SDN,202732,289063,372933,380134.5,389319,399354.5,413073,426037.5,435812,443207,448415.5,453143.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Suriname,SUR,4406,4533,4849,4983.5,5097.5,5216,5318,5359,5367,5398.5,5429,5444.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Sweden,SWE,56149.5,49076,57715.5,54217,51620,50363.5,50308.5,51157.5,52297,54050.5,56445,58141
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Switzerland,CHE,43675,40559,43658.5,43850.5,43675,43189,42849,42820,41859,40871,40673,40964.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Syrian Arab Republic,SYR,134897.5,181694.5,192934.5,176426,172722,181295,194567.5,211050,233050.5,249995.5,259576,270306.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Tajikistan,TJK,55283,66939,87637.5,85996,84033,84942,85272,85073.5,85796,86070,85839.5,86193.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Tanzania,TZA,270711,374873.5,494889,517444.5,535108,550342.5,569616.5,590974.5,617189,642535,666587,692993
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Thailand,THA,586741,534015,497213.5,510041.5,502198,479085.5,451859.5,435131.5,426910,417445.5,406496.5,399368.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Timor-Leste,TLS,6873,8187.5,12192.5,12591,13014.5,13429.5,13860.5,14218.5,14518,14737,14946,15183
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Togo,TGO,39869.5,52865,70368,71657,73098,75047.5,77534.5,79922,82214.5,84575.5,86788,88616
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Tonga,TON,1077.5,1080.5,1087,1068.5,990.5,986.5,1001.5,1063,1075.5,1043,1078.5,1112.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Trinidad and Tobago,TTO,11275,14447.5,9742,9455,9284.5,9205,9263,9517.5,9607.5,9502,9530,9549.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Tunisia,TUN,84692.5,105511.5,93941,89962,86288,82925.5,79852.5,78320.5,78221.5,78634,80212,82440
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Turkiye,TUR,552744.5,626823.5,658777,674107.5,684248,682565.5,673385,654731.5,650992.5,634350,604043.5,598742.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Turkmenistan,TKM,37196.5,46254.5,54662,53123,51664.5,50452.5,49438.5,48659,47839,47027,47053.5,47833.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Turks and Caicos Islands,TCA,116,131.5,234.5,255.5,268.5,272.5,276,278,280,281.5,277,274.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Tuvalu,TUV,61.5,74.5,104.5,103,102.5,100,96,91.5,90,90,86,83
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Uganda,UGA,193742.5,246267.5,410584.5,422303.5,434303,449253.5,466065,483668,500866,517876.5,532933,547259.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Ukraine,UKR,362078.5,355600.5,239533.5,231279,218939,206144.5,195509,187827,183388.5,183439,191387.5,153731.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,United Arab Emirates,ARE,11644,26190.5,43156.5,38695.5,34521.5,30956,28369,26983,26772.5,27573.5,28946,32983
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,United Kingdom,GBR,404009.5,354566.5,384576,382947,382785.5,380064.5,373926.5,364139.5,355577.5,351669.5,356603.5,367139.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,United States,USA,1760831.5,1950480.5,2120790.5,2098195,2089675.5,2096098.5,2113576,2142991,2153742,2141874,2150073.5,2163634.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Uruguay,URY,24420.5,24748,26253,26213,25974.5,25518.5,25032.5,24585,24167,24091,23914,23587.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Uzbekistan,UZB,201211.5,250924.5,303952.5,297382.5,286230.5,272026,259520.5,252690.5,250079.5,249769,247475,247626
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Vanuatu,VUT,1491,1907.5,2668,2661.5,2652.5,2648.5,2644,2672,2737.5,2801,2866,2950.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Venezuela, RB",VEN,198533,240806.5,267093.5,267414.5,268128,267584,262474.5,251046,240569,238628.5,241304,250209
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Viet Nam,VNM,664108.5,836483,772774.5,730864,698267,675754,662297,662087,667465,676185.5,680880,680016.5
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Virgin Islands (U.S.),VIR,759.5,830,639.5,596.5,559,527.5,501,485.5,481,486.5,496.5,510
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,West Bank and Gaza,PSE,21906.5,32566,48175.5,48171.5,48072,48355.5,48918,49382.5,50040.5,51051,51968.5,53130
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,"Yemen, Rep.",YEM,129290.5,203034.5,314233,311047.5,308910.5,312608,317790.5,323504.5,326507.5,330249.5,337642.5,346821
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Zambia,ZMB,86662.5,112404,163969.5,168556.5,173087,178152,183907.5,189984,195740,201631,208241,215924
+"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN,Zimbabwe,ZWE,120262,175030.5,144064,148139.5,154782.5,161800,169100,175224.5,179279.5,181745,183427,184328.5
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Data from database: Health Nutrition and Population Statistics,,,,,,,,,,,,,,,
+Last Updated: 12/20/2023,,,,,,,,,,,,,,,
